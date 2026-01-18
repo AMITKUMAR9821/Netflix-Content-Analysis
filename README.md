@@ -89,18 +89,6 @@ Used a **CTE** to analyze which directors have produced the most content within 
 
 This project demonstrates how SQL can be used to analyze real-world datasets and extract actionable insights. It strengthened my skills in **data aggregation, filtering, subqueries, CTEs, and analytical problem-solving**, making it highly relevant for entry-level data analyst roles.
 
----
-
-## 📄 Project Files
-
-* `Netflix titles analysis.sql` – SQL queries used for analysis
-
----
-
-## 👤 Author
-
-**Amit Kumar**
-Aspiring Data Analyst
 
 ---
 
